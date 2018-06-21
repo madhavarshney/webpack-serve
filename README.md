@@ -164,7 +164,7 @@ Resolves: `<Object> result`
 Type: `Koa`
 
 An instance of a `Koa` application, extended with a `server` property, and
-`stop` method, which is used to programatically stop the server.
+`stop` method, which is used to programmatically stop the server.
 
 ### `result.on`
 
@@ -484,7 +484,7 @@ Inclusion in the list does not imply a module is preferred or recommended
 over others._
 
 - [webpack-serve-waitpage](https://github.com/elisherer/webpack-serve-waitpage):
-Displays build progress in the client during complilation.
+Displays build progress in the client during compilation.
 
 ## Contributing
 
